@@ -1,6 +1,6 @@
 # Confronto Modelli Serie Storiche: Statistici vs. LSTM
 
-Questo repository contiene il codice sorgente, i notebook di analisi e la documentazione della tesi di laurea magistrale dal titolo "[Inserisci il titolo completo della tua tesi]".
+Questo repository contiene il codice sorgente, i notebook di analisi e la documentazione della tesi di laurea triennale dal titolo "Analisi comparativa di modelli di previsione di Serie Storiche".
 
 ## 📖 Descrizione
 
